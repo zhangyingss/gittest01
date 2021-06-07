@@ -11,5 +11,11 @@ class Gittest01ApplicationTests {
         System.out.println("-------");
         System.out.println("sdsf");
     }
+    @Test
+    void contextsdfLoads() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+    }
 
 }
