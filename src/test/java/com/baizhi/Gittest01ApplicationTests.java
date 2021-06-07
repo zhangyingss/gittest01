@@ -9,7 +9,7 @@ class Gittest01ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("-------");
-
+        System.out.println("sdsf");
     }
 
 }
